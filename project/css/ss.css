@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap');
+
+*{
+
+}
+
+html{
+
+
+
+}
+
+body{
+
+
+
+}
+
+.site-logo{
+    width: 150px;
+}
+
+
+.site-nav{
+    position: absolute;
+    top: 0;
+
+}
+
+
+.home{
+    background-image: url(../img/bg-shape.svg);
+    background-repeat: no-repeat;
+    background-position:right  top;
+    background-size: 50%;
+    position: relative;
+}
+
